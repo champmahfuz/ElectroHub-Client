@@ -4,7 +4,8 @@ import {
     signInWithEmailAndPassword, GoogleAuthProvider,
     signInWithPopup, onAuthStateChanged, signOut, getIdToken
 } from "firebase/auth";
-import initializeFirebase from "../Firebase/firebase.config";
+import initializeFirebase from '../Firebase/firebase.init';
+// import initializeFirebase from "../Firebase/firebase.config";
 
 initializeFirebase();
 
