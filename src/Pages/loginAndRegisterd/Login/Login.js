@@ -71,9 +71,9 @@ const Login = () => {
                                     {authError}
                                 </Alert>}
                             </Form>
-                            <Button onClick={handleGoogleSignIn} variant="primary" >
+                            {/* <Button onClick={handleGoogleSignIn} variant="primary" >
                                 Google Sign In
-                            </Button>
+                            </Button> */}
                         </div>
                         <div className="col-md-6 login-right">
                         </div>
