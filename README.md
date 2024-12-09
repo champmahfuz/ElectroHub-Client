@@ -1,7 +1,7 @@
 # ElectroHub
 
 ElectroHub is a startup electronics e-commerce site where you can find your desired electronics products.
-Visit [ElectroHub](https://electro-hub-shop.web.app/) to buy product.
+Visit [ElectroHub](https://electro-hub-client.vercel.app/) to buy product.
 
 ## Project Overview
 
